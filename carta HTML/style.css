@@ -1,0 +1,27 @@
+
+* 
+{
+    box-sizing: border-box;
+}
+
+body{
+    font-size:11px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .boxRight {
+    width:auto;
+  }
+  
+  .boxLeft {
+    flex: 1; /* Ocupa el espacio restante */
+    margin-left: 10px; /* Espacio entre las capas */
+  }
+
+  main{
+    padding: 0px 10px 5px 10px;
+  }
