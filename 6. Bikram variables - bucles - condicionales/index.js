@@ -1,0 +1,10 @@
+
+let variableSinValor;
+
+let booleano1 = true;
+let booleano2 = false;
+
+const PI = 3.14;
+const TAU = 2 * PI;
+
+alert(TAU)
